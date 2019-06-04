@@ -25,6 +25,7 @@
     "@babel/preset-env": "^7.1.0",
     "@htmlacademy/editorconfig-cli": "^1.0.0",
     "autoprefixer": "^9.0.2",
+    "axios": "^0.19.0",
     "bemlint": "^1.6.1",
     "browser-sync": "^2.14.0",
     "del": "^4.0.0",
